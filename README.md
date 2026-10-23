@@ -32,7 +32,4 @@ I'm a Robotics & Intelligent Systems Engineering student at Tec de Monterrey. I 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a><a href="https://letterboxd.com/YOUR_LETTERBOXD"><img src="https://img.shields.io/badge/Letterboxd-202830?style=flat-square&logo=letterboxd&logoColor=white"/></a>
 
 ---
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jgerr08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jgerr08&layout=compact&theme=tokyonight&hide_border=true&card_width=320" /> </p> <p align="center"> <img height="170" src="https://streak-stats.demolab.com?user=Jgerr08&theme=tokyonight&hide_border=true" /> </p> <p align="center"></p>
